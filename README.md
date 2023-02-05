@@ -9,11 +9,10 @@
 
 - ⚡ Fun fact **Never give up xd**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/kaan1iq0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://linktr.ee/kaan1iq0" height="30" width="40" /></a>
 <a href="https://linktr.ee/kaan1iq0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://linktr.ee/kaan1iq0" height="30" width="40" /></a>
-<a href="https://linktr.ee/kaan1iq0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://linktr.ee/kaan1iq0" height="30" width="40" /></a>
 <a href="https://linktr.ee/kaan1iq0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://linktr.ee/kaan1iq0" height="30" width="40" /></a>
 </p>
 
