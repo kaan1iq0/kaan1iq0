@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">I'm Front End Developer :v:(learning xd)</h3>
 
+![tumblr_2cf4bc81d66d3dc36db78c2dd188974c_52f2e247_540 (1) ](https://user-images.githubusercontent.com/110562631/219900365-9f60d2e2-077a-499a-b786-21ca6ed97eb4.png)
+</div>
 - 🌱 I’m currently learning **HTML, CSS, JSCRİPT, JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaan1iq0](https://github.com/kaan1iq0)
