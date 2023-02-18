@@ -3,8 +3,9 @@
 
 
 
-  ![tumblr_2cf4bc81d66d3dc36db78c2dd188974c_52f2e247_540 (1)](https://user-images.githubusercontent.com/110562631/219900675-e90477b5-a3a7-4121-9597-7e85d8aa9d40.png)
-
+<p align ="center">
+  <img align="center" src="gif.png" >
+</p>
 
 - 🌱 I’m currently learning **HTML, CSS, JSCRİPT, JAVA**
 
