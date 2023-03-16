@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaan1iq0](https://github.com/kaan1iq0)
 
-- 📫 How to reach me **https://linktr.ee/kaan1iq0**
+- 📫 How to reach me **yasarkaanvural22@gmail.com**
 
 - ⚡ Fun fact **Never give up xd**
 
